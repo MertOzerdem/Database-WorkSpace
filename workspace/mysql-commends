@@ -1,0 +1,19 @@
+mysql-ctl start
+ 
+mysql-ctl cli
+ 
+mysql-ctl stop
+ 
+exit;
+ 
+quit;
+ 
+\q;
+ 
+ctrl-c
+
+help;
+ 
+show databases;
+ 
+select @@hostname;
